@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10","10","SK6812MINI","","","","LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm","https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
+"H1,H2","2","MountingHole","","Excluded from BOM","","MountingHole:MountingHole_3.2mm_M3","~"
+"J1","1","Conn_01x04_Pin","","","","SCREEN:SSD1306-0.91-OLED-4pin-128x32","~"
+"SW1,SW2,SW3,SW4,SW5","5","SW_Push","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB","~"
+"SW7","1","RotaryEncoder_Switch","","","","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm","~"
+"U1","1","XIAO-RP2040-DIP","","","","OPL:XIAO-RP2040-DIP",""
