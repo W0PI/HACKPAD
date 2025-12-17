@@ -7,6 +7,11 @@ a little macro pad with 5 key switches 1 rotary encoder and a oled screen run bu
 <img width="618" height="642" alt="fully" src="https://github.com/user-attachments/assets/1eccd78f-1f56-4ccb-a434-44d1d14cdc1c" />
 <img width="1410" height="718" alt="shcematic" src="https://github.com/user-attachments/assets/f5a5b900-1f24-4d1f-8559-8d9ec8b5970f" />
 
+<img width="396" height="371" alt="image" src="https://github.com/user-attachments/assets/83863fe3-d6be-4894-9822-c123e38168e1" />
+just front stuff
+<img width="394" height="369" alt="image" src="https://github.com/user-attachments/assets/4c033e8c-9ea7-4698-857d-043fc593f29f" />
+just back stuff
+<img width="386" height="368" alt="image" src="https://github.com/user-attachments/assets/36343d4c-db64-4ede-90a7-07507a30fe56" />
 
 front pcb componants
 <img width="1033" height="824" alt="PCB" src="https://github.com/user-attachments/assets/0edcc408-ffb2-4ddb-92e0-2ea923ac199f" />
