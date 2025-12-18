@@ -1,6 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "OPL")(type "KiCad")(uri "${KIPRJMOD}/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
-  (lib (name "SCREEN")(type "KiCad")(uri "${KIPRJMOD}/screen")(options "")(descr ""))
-  (lib (name "keycap stable")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty")(options "")(descr ""))
-)
